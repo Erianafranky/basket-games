@@ -2,6 +2,7 @@ import React from "react";
 import Games from "./Games";
 
 function GamesTable({ games }) {
+  
     
     return (
         <table className="ui celled striped padded table">

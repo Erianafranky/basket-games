@@ -13,6 +13,7 @@ function Games({ gameNo, home, away, conference, day, date, time, court, locatio
             <td>{time}</td>
             <td>{court}</td>
             <td>{location}</td>
+            <td><button className="delete">Delete</button></td>
         </tr> 
     
     
